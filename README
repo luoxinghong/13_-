@@ -1,0 +1,5 @@
+词分析api  输入的txt区分gbk和utf-8  所以如果你输入的txt包含杂质的话就可以能会被api自动删除
+
+
+
+https://ai.baidu.com/docs#/NLP-Basic-API/top
